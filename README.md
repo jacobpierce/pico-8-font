@@ -1,5 +1,5 @@
 # pico-8-font
-Reproduction of the [PICO-8](http://www.lexaloffle.com/pico-8.php) font as TrueType and glyph.
+Faithful reproduction of the [PICO-8](http://www.lexaloffle.com/pico-8.php) font as TrueType and glyph. Both uppercase and lowercase letters appear as uppercase.
 
 ![install](pico-8-preview.gif)
 
